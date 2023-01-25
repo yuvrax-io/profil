@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yorkhé yuvrax</h1>
 <h3 align="center">A passionate fullstack developer from morocco</h3>
-<p style="text-align:center;"><img align="center" alt="coding" width="200" src="funny.gif"></p>
+<div style="text-align: right;"><img alt="coding" width="300" src="funny.gif"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrax-io&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrax-io" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrax-io" alt="yuvrax-io" /></a> </p>
